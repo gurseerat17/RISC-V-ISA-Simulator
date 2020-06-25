@@ -32,7 +32,7 @@ Directory Structure:<br/>
 How to execute<br/>
 $ g++ PHASE1.cpp<br/>
 $ ./a.out<br/>
-$ g++ PHASE2.cpp<br/>
+$ g++ PHASE3.cpp<br/>
 $ ./a.out<br/>
 
 
